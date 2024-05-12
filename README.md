@@ -1,1 +1,1 @@
-X-ray fracture diagnosis
+X-ray fracture diagnosis using CNN Model
